@@ -2,6 +2,8 @@
 
 Coach.ai is a mobile application built using Flutter that uses TensorFlow's MoveNet model for pose detection to help users count their reps and detect the correctness of their pose. In addition to this, the app has additional modules for BMI calculation, nutrition tracking, and user authentication using Firebase.
 
+This was my senior project for the Fall 2022 - Spring 2023 semesters at the Faculty of Engineering, Alexandria University, under the Computer and Communications Engineering department, supervised by Dr. Onsy Abdelalim.
+
 ## Features
 
 The following are the key features of the Coach.ai app:
