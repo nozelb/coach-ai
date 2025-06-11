@@ -235,6 +235,7 @@ double getSlope(List<double> pointA, List<double> pointB) {
 double getAngleTwoPoints(List<double> line1A, List<double> line1B,
     List<double> line2A, List<double> line2B) {
   final slope1 = getSlope(line1A, line1B);
+  // Slope of the second line
   final slope2 = getSlope(line2A, line2B);
   if (slope1 * slope2 == -1) {
     return 90.00;
